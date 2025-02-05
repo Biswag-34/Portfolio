@@ -1,0 +1,47 @@
+.hero-section {
+    background: url('rest_back.webp') no-repeat center center;
+    background-size: cover;
+    color: white;
+    padding: 80px 0;
+    text-align: center;
+
+}
+
+.hero-section h1 {
+    font-size: 3rem;
+    color: rgba(247, 251, 246, 0.86);
+    
+}
+
+.hero-section p {
+    font-size: 1.25rem;
+}
+
+.cta-button {
+    background-color: #ff6347;
+    color: white;
+    padding: 15px 30px;
+    font-size: 1.25rem;
+    border: none;
+    cursor: pointer;
+}
+
+.cta-button:hover {
+    background-color: #e53d34;
+}
+
+.features-icon {
+    font-size: 50px;
+    color: #ff6347;
+}
+
+footer {
+    background-color: #f8f9fa;
+    padding: 30px 0;
+    text-align: center;
+}
+
+.testimonials-section {
+    background-color: #f1f1f1;
+    padding: 60px 0;
+}
